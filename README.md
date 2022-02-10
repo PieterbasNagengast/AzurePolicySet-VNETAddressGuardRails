@@ -1,4 +1,4 @@
-# Azure Policy: Deny Subnet Size
+# Azure Policy Initiative: VNET Address Guard Rails
 
 ## Description
 
